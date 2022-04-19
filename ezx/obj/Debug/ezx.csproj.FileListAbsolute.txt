@@ -1,0 +1,15 @@
+C:\Users\Администратор\source\repos\ezx\ezx\obj\Debug\ezx.csproj.AssemblyReference.cache
+C:\Users\Администратор\source\repos\ezx\ezx\obj\Debug\MainWindow.g.cs
+C:\Users\Администратор\source\repos\ezx\ezx\obj\Debug\App.g.cs
+C:\Users\Администратор\source\repos\ezx\ezx\obj\Debug\ezx_MarkupCompile.cache
+C:\Users\Администратор\source\repos\ezx\ezx\obj\Debug\ezx_MarkupCompile.lref
+C:\Users\Администратор\source\repos\ezx\ezx\bin\Debug\ezx.exe.config
+C:\Users\Администратор\source\repos\ezx\ezx\bin\Debug\ezx.exe
+C:\Users\Администратор\source\repos\ezx\ezx\bin\Debug\ezx.pdb
+C:\Users\Администратор\source\repos\ezx\ezx\obj\Debug\MainWindow.baml
+C:\Users\Администратор\source\repos\ezx\ezx\obj\Debug\ezx.g.resources
+C:\Users\Администратор\source\repos\ezx\ezx\obj\Debug\ezx.Properties.Resources.resources
+C:\Users\Администратор\source\repos\ezx\ezx\obj\Debug\ezx.csproj.GenerateResource.cache
+C:\Users\Администратор\source\repos\ezx\ezx\obj\Debug\ezx.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\ezx\ezx\obj\Debug\ezx.exe
+C:\Users\Администратор\source\repos\ezx\ezx\obj\Debug\ezx.pdb
